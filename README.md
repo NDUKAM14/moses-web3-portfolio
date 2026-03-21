@@ -1,2 +1,171 @@
-# moses-web3-portfolio
-My Web3 portfolio showcasing content, impact, and community work
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Moses Nduka Joshua</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(180deg, #0b0b0f, #12121a);
+  color: #fff;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 60px 20px;
+}
+
+h1 {
+  font-size: 42px;
+}
+
+.subtitle {
+  color: #aaa;
+}
+
+.section {
+  margin-top: 70px;
+}
+
+.section h2 {
+  border-bottom: 1px solid #222;
+  padding-bottom: 10px;
+}
+
+.impact {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.card {
+  background: rgba(255,255,255,0.05);
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.big {
+  font-size: 26px;
+  font-weight: bold;
+  color: #9b5cff;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.grid img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.video {
+  width: 100%;
+  margin-top: 15px;
+}
+
+a {
+  color: #9b5cff;
+  text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Moses Nduka Joshua</h1>
+<p class="subtitle">Web3 Ambassador | Content Creator | Community Contributor</p>
+
+<p>
+I turn early-stage Web3 ecosystems into narratives people actually understand, engage with, and participate in.
+</p>
+
+<div class="section">
+<h2>🚀 Impact</h2>
+
+<div class="impact">
+<div class="card"><div class="big">1.9M+</div>Impressions</div>
+<div class="card"><div class="big">90.1K+</div>Engagements</div>
+<div class="card"><div class="big">7.1%</div>Engagement Rate</div>
+<div class="card"><div class="big">6.1K+</div>Profile Visits</div>
+</div>
+
+<p style="margin-top:20px;">
+25K+ Likes | 2.2K+ Reposts | 515+ Bookmarks | 400+ Verified Followers
+</p>
+
+<p style="margin-top:20px;">
+📊 Add your X analytics screenshot here later
+</p>
+
+</div>
+
+<div class="section">
+<h2>🎨 Visual Content</h2>
+
+<div class="grid">
+<img src="your-image1.jpg">
+<img src="your-image2.jpg">
+<img src="your-image3.jpg">
+<img src="your-image4.jpg">
+</div>
+
+<p>Add your best infographic / thread covers here</p>
+
+</div>
+
+<div class="section">
+<h2>🎥 Video Content</h2>
+
+<video class="video" controls>
+<source src="video1.mp4" type="video/mp4">
+</video>
+
+<video class="video" controls>
+<source src="video2.mp4" type="video/mp4">
+</video>
+
+<p>Short-form Web3 content and engagement-driven clips</p>
+
+</div>
+
+<div class="section">
+<h2>🧩 Featured Work</h2>
+
+<p><b>Myriad Ecosystem Guide</b><br>
+<a href="https://x.com/ndukam14/status/1978796519097528450?s=46">View</a></p>
+
+<p><b>PrismaX Role Breakdown</b><br>
+<a href="https://x.com/ndukam14/status/2017862902741340233?s=46">View</a></p>
+
+<p><b>Pi Squared Content</b><br>
+<a href="https://x.com/ndukam14/status/2013234303333740566?s=46">View</a></p>
+
+</div>
+
+<div class="section">
+<h2>📬 Contact</h2>
+
+<p>
+<a href="https://x.com/ndukam14">X</a><br>
+<a href="https://www.linkedin.com/in/joshua-moses-1540763b7">LinkedIn</a><br>
+<a href="https://github.com/NDUKAM14">GitHub</a><br>
+Telegram: @ndukam2026<br>
+Email: ndukam459@gmail.com
+</p>
+
+</div>
+
+</div>
+
+</body>
+</html>
